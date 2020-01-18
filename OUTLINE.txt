@@ -1,0 +1,17 @@
+#!/bin/vim
+
+Beginning:
+	Lux , a lyger from a small trading town, visits a reservation for the Buffalo tribe
+	"Apache," the last of their kind, aiming to slowly repopulate. While there, he is
+	invited to partake in "firewater," during a party event for tourists to mingle with the
+	Buffalo living on the reservation. Soon, he blacks out, awakening surrounded by fires,
+	screams, and the smell of cooked bison, accompanied with ash and burning houses.
+	Barely able to escape the ruined reservation, the injured cat returns home.
+	A week(?) later, he receives the news in the paper: no known survivors. The buffalo
+	population is presumably doomed, and to make matters worse, following an anonymous tip,
+	Lux is brought in by the local police for "questioning," where he quickly becomes the
+	prime suspect and subsequently the defendant.
+
+
+Ending:
+	After a long period of discovery, and a firey 
