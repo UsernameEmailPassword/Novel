@@ -1,5 +1,5 @@
 	Lux (Lucius) finds himself trapped in a cellar with a blind
-bat named Leora, who's studying to become a doctor.
+bat named Leora, who's studying to become a doctor, and finds her blind and unable to fly.
 
 #LEORA
 
@@ -7,7 +7,7 @@ bat named Leora, who's studying to become a doctor.
 she isn't ashamed , she knows to keep a secret. Her eyes are milky white
 from being blind most of her life. She can't remember pretty much any color
 or shape's appearance. Her adoptive father is a hedgehog named "Aneirin."
-She loves medicine, and treats the locals as a witch-doctor.
+She loves medicine, and treats the locals as a witch-doctor. Finally, she has no wings, having been mutilated as a youngling.
 
 #ANEURIN
 	<N/A YET>
