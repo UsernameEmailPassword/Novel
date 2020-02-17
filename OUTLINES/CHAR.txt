@@ -1,30 +1,25 @@
 #LUCIUS
 	Lucius is a liger descended from a sharecropping couple. Privately
 educated, despite the prejudices of his peers, "Lux," as he became known as,
-climbed the economic ladder to achieve wealth as an agricultural elite. Though
-he usually maintains the diction of an upperclass living, his vocabularly is
-frequently laced with breaks in formality, especially during times of distress.
-
-	The liger values intellectual pursuits and cherishes his late parents,
-though he finds himself nagged by a longing for company. Lucius's most prominent
-shortcomings include his economically chary nature, coupled with a tendency for
-hestitation and procrastination.
-
+climbed the economic ladder to achieve wealth as an agricultural elite. 
+Though he usually maintains the diction of an upperclass living, his 
+vocabularly is frequently laced with breaks in formality, especially during 
+times of distress. The liger values intellectual pursuits and cherishes his 
+late parents, though he finds himself nagged by a longing for company. 
+Lucius's most prominent shortcomings include his economically chary nature, 
+coupled with a tendency for hestitation and procrastination.
 
 ####
 
-	Lux (Lucius) finds himself trapped in a cellar with a blind
-bat named Leora, who's studying to become a doctor, and finds her blind and 
-unable to fly.
 
 #LEORA
 
-	Leora is secretly (to Lux and the public) a vampire-bat; although
-she isn't ashamed , she knows to keep a secret. Her eyes are milky white
-from being blind most of her life. She can't remember pretty much any color
-or shape's appearance. Her adoptive father is a hedgehog named "Aneirin."
-She loves medicine, and treats the locals as a witch-doctor. Finally, 
-she has no wings, having been mutilated as a youngling.
+	Leora is secretly (to the public) a vampire-bat; although she isn't 
+ashamed , she knows to keep a secret. Her eyes are milky white from being 
+blind most of her life. She can't remember pretty much any color or shape's 
+appearance. Her adoptive father is a goat named "Aneurin." She loves 
+medicine, and she treated the locals as a witch-doctor. Finally, she has no 
+wings, having been mutilated as a youngling.
 
 #DUMP FROM CHAT
 
@@ -41,11 +36,19 @@ Her hair is charcoal black with a streak of dusty gray.
 #########
 
 #ANEURIN
-	Aneurin is a black goat and former general in the war against the vampires, 
-unbeknownst to his daughter.
+	Aneurin is a black goat and former strategist in the war against the vampires, unbeknownst to his daughter.
+
 
 #TWINLEAF
-	Twinleaf is a reptillian scientist, and god-aunt to Leora who served under 
-Aneurin in war.
+	Twinleaf is a reptillian scientist, and god-aunt to Leora who served
+under Aneurin in war. She works for the Unidad: a heterogenous republic
+that composes itself freely of surrounding species, consulting for them as a
+biologist regarding egalitarian public works.
 
-
+#Panama
+	Panama is a separatist crow who joined the Huntsmen after his home
+was invaded by the Unidad Republic. Huntsmen defended the independence of
+his city-state, and later offered them gracious terms for becoming a part of
+the empire when the city fell on economic hardship, at which time the crow
+enlisted and quickly worked his ways up the ranks as a devoted soldier with
+honor.
