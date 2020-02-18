@@ -36,8 +36,9 @@ Her hair is charcoal black with a streak of dusty gray.
 #########
 
 #ANEURIN
-	Aneurin is a black goat and former strategist in the war against the vampires, unbeknownst to his daughter.
-
+	Aneurin is a black goat and former strategist in the war against the
+vampires, unbeknownst to his daughter. He is confined to a suit of armor
+fitted with exoskeletal supports for his legs.
 
 #TWINLEAF
 	Twinleaf is a reptillian scientist, and god-aunt to Leora who served
@@ -45,7 +46,7 @@ under Aneurin in war. She works for the Unidad: a heterogenous republic
 that composes itself freely of surrounding species, consulting for them as a
 biologist regarding egalitarian public works.
 
-#Panama
+#PANAMA
 	Panama is a separatist crow who joined the Huntsmen after his home
 was invaded by the Unidad Republic. Huntsmen defended the independence of
 his city-state, and later offered them gracious terms for becoming a part of
