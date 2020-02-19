@@ -44,7 +44,14 @@ fitted with exoskeletal supports for his legs.
 	Twinleaf is a reptillian scientist, and god-aunt to Leora who served
 under Aneurin in war. She works for the Unidad: a heterogenous republic
 that composes itself freely of surrounding species, consulting for them as a
-biologist regarding egalitarian public works.
+biologist regarding egalitarian public works. As an alligator, she's tall
+and imposing, yet with a graceful beauty.
+
+#GWENDOLYN
+	Gwendolyn is a sterile hen and servant to Lucius in the manor. She
+lays her eggs as a source of food for Lux, and she is extremely loyal and
+proud of her position, being well-educated and encouraged to independently
+manage aspects of the house.
 
 #PANAMA
 	Panama is a separatist crow who joined the Huntsmen after his home
