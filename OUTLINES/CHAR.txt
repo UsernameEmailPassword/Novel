@@ -40,12 +40,16 @@ Her hair is charcoal black with a streak of dusty gray.
 vampires, unbeknownst to his daughter. He is confined to a suit of armor
 fitted with exoskeletal supports for his legs.
 
-#TWINLEAF
+#TWINLEAF VASS
 	Twinleaf is a reptillian scientist, and god-aunt to Leora who served
 under Aneurin in war. She works for the Unidad: a heterogenous republic
 that composes itself freely of surrounding species, consulting for them as a
 biologist regarding egalitarian public works. As an alligator, she's tall
 and imposing, yet with a graceful beauty.
+
+	ADDRESS:	LINE #00FF09
+	KEY:		1.4.9.3.0.2.4.5
+
 
 #GWENDOLYN
 	Gwendolyn is a sterile hen and servant to Lucius in the manor. She
